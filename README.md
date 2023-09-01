@@ -1,8 +1,14 @@
-# React + Vite
+# Reactでtvcha換装
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## 紹介と使い方
 
-Currently, two official plugins are available:
+  - 感情シェアアプリをReactに実装
+  - 
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 工夫した点
+
+  - 現状作っているアプリをReactに換装しました。
+
+## 苦戦した点
+
+  - cssの当て方がわからず、苦労しました。
